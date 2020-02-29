@@ -1,0 +1,47 @@
+FPDF 1.53 Manual de Referência
+AcceptPageBreak - aceita ou não quebra de página automática
+AddFont - adiciona uma nova fonte
+AddLink - cria um link interno
+AddPage - adiciona uma nova página
+AliasNbPages - define um apelido para número de páginas
+Cell - imprime uma célula
+Close - termina o documento
+Error - erro fatal
+Footer - rodapé da página
+FPDF - construtor
+GetStringWidth - calcula o tamanho de um texto
+GetX - obtém a posição x atual
+GetY - obtém a posição y atual
+Header - cabeçalho da página
+Image - gera uma imagem
+Line - desenha uma linha
+Link - insere um link
+Ln - quebra de linha
+MultiCell - imprime um texto com quebra de linha
+Output - salva ou envia o documento
+PageNo - número da página
+Rect - desenha um retângulo
+SetAuthor - especifica o autor do documento
+SetAutoPageBreak - estabelece o modo de quebra de página automática
+SetCompression - alterna compressão de dados entre ligada e desligada
+SetCreator - define o criador do documento
+SetDisplayMode - define o modo de visualização
+SetDrawColor - define a cor que será usada para desenhar
+SetFillColor - define a cor de preenchimento
+SetFont - define a fonte
+SetFontSize - define o tamanho da fonte
+SetKeywords - associa palavras-chave ao documento
+SetLeftMargin - define a margem esquerda
+SetLineWidth - define a largura da linha
+SetLink - define o destino de um link interno
+SetMargins - define as margens
+SetRightMargin - define a margem direita
+SetSubject - define o assunto do documento
+SetTextColor - define a cor do texto
+SetTitle - define o título do documento
+SetTopMargin - define a margem superior
+SetX - define a posição de x
+SetXY - define os valores de x e y
+SetY - define o valor de y
+Text - imprime um texto
+Write - imprime o texto na sequência
